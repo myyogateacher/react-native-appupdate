@@ -19,7 +19,7 @@
   "author": "parryworld",
   "license": "MIT",
   "dependencies": {
-    "react-native-fs": "8.1.0"
+    "react-native-fs": "2.19.0"
   },
   "bugs": {
     "url": "https://github.com/parryworld/react-native-appupdate/issues"
